@@ -23,6 +23,6 @@ cehui
 			cehui-service
 
 		cehui-provider-management（生产者父级项目）
-			system-provdier-5081
+			system-provdier-8081
 
 		cehui-zuul-4081（路由网关）
